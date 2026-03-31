@@ -1,0 +1,15 @@
+{
+  "name": "Salon Venus",
+  "short_name": "Salon Venus",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e8",
+  "theme_color": "#171311",
+  "icons": [
+    {
+      "src": "./logo-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
